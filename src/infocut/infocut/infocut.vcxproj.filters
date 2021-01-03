@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="stdafx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -37,175 +34,175 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\z-machine\icons256\Zork I 256.ico">
+    <Image Include="icons\A Mind Forever Voyaging 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\icon2.ico">
+    <Image Include="icons\Advent.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Arthur 256.ico">
+    <Image Include="icons\Arthur 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="icon1.ico">
+    <Image Include="icons\Ballyhoo 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\dropbox.png">
+    <Image Include="icons\Beyond Zork 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\A Mind Forever Voyaging 256.ico">
+    <Image Include="icons\Border Zone 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Ballyhoo 256.ico">
+    <Image Include="icons\Bureaucracy 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Beyond Zork 256.ico">
+    <Image Include="icons\Cornerstone 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Border Zone 256.ico">
+    <Image Include="icons\Cutthroats 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Bureaucracy 256.ico">
+    <Image Include="icons\Deadline 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Cornerstone 256.ico">
+    <Image Include="icons\dropbox.png">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Cutthroats 256.ico">
+    <Image Include="icons\Enchanter 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Deadline 256.ico">
+    <Image Include="icons\Fooblitzky 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Enchanter 256.ico">
+    <Image Include="icons\Gamme Force 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Fooblitzky 256.ico">
+    <Image Include="icons\Hitchhiker%27s Guide to the Galaxy 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Gamme Force 256.ico">
+    <Image Include="icons\Hollywood 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Hitchhiker%27s Guide to the Galaxy 256.ico">
+    <Image Include="icons\icon2.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Hollywood 256.ico">
+    <Image Include="icons\icon52.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Infidel 256.ico">
+    <Image Include="icons\Infidel 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Journey 256.ico">
+    <Image Include="icons\Journey 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Lane Mastodon 256.ico">
+    <Image Include="icons\Lane Mastodon 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Leather Goddesses 2 256.ico">
+    <Image Include="icons\Leather Goddesses 2 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Leather Goddesses 256.ico">
+    <Image Include="icons\Leather Goddesses 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Lost Treasures 1 256.ico">
+    <Image Include="icons\Lost Treasures 1 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Lost Treasures 2 256.ico">
+    <Image Include="icons\Lost Treasures 2 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Lurking Horror 256.ico">
+    <Image Include="icons\Lurking Horror 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Masterpieces of Infocom 256.ico">
+    <Image Include="icons\Masterpieces of Infocom 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Moonmist 256.ico">
+    <Image Include="icons\Moonmist 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Nord and Bert 256.ico">
+    <Image Include="icons\Nord and Bert 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Planetfall 256.ico">
+    <Image Include="icons\Planetfall 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Plundered Hearts 256.ico">
+    <Image Include="icons\Plundered Hearts 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Quarterstaff 256.ico">
+    <Image Include="icons\Quarterstaff 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Return to Zork 256.ico">
+    <Image Include="icons\Return to Zork 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Seastalker 256.ico">
+    <Image Include="icons\Seastalker 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Sherlock 256.ico">
+    <Image Include="icons\Sherlock 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Shogun 256.ico">
+    <Image Include="icons\Shogun 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Sorcerer 256.ico">
+    <Image Include="icons\Sorcerer 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Spellbreaker 256.ico">
+    <Image Include="icons\Spellbreaker 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Starcross 256.ico">
+    <Image Include="icons\Starcross 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Stationfall 256.ico">
+    <Image Include="icons\Stationfall 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Suspect 256.ico">
+    <Image Include="icons\Suspect 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Suspended 256.ico">
+    <Image Include="icons\Suspended 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Trinity 256.ico">
+    <Image Include="icons\Trinity 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Wishbringer 256.ico">
+    <Image Include="icons\trs80.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Witness 256.ico">
+    <Image Include="icons\Wishbringer 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Zork - Grand Inquisitor 256 .ico">
+    <Image Include="icons\Witness 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Zork - Nemesis 256.ico">
+    <Image Include="icons\Zork - Grand Inquisitor 256 .ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Zork II 256.ico">
+    <Image Include="icons\Zork - Nemesis 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Zork III 256.ico">
+    <Image Include="icons\Zork I 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Zork TUU 256.ico">
+    <Image Include="icons\Zork II 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Zork Zero 256.ico">
+    <Image Include="icons\Zork III 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\ZorkQuest 1 256.ico">
+    <Image Include="icons\Zork TUU 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\ZorkQuest 2 256.ico">
+    <Image Include="icons\Zork Zero 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\icon52.ico">
+    <Image Include="icons\ZorkQuest 1 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons\Infocom.ico">
+    <Image Include="icons\ZorkQuest 2 256.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\Advent.ico">
+    <Image Include="icons\Infocom.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\z-machine\icons256\trs80.ico">
+    <Image Include="icons\icon1.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
